@@ -21,7 +21,7 @@ export const MODELS: ModelConfig[] = [
     priority: 1,
     limits: { requestsPerMinute: 60, requestsPerDay: 1000, tokensPerMinute: 6000, tokensPerDay: 500_000 },
     temperature: 1.1,
-    maxTokens: 400,
+    maxTokens: 3000,
   },
   {
     id: "openai/gpt-oss-120b",
@@ -29,7 +29,7 @@ export const MODELS: ModelConfig[] = [
     priority: 2,
     limits: { requestsPerMinute: 30, requestsPerDay: 1000, tokensPerMinute: 8000, tokensPerDay: 200_000 },
     temperature: 1.0,
-    maxTokens: 400,
+    maxTokens: 3000,
   },
   {
     id: "moonshotai/kimi-k2-instruct",
@@ -37,7 +37,7 @@ export const MODELS: ModelConfig[] = [
     priority: 3,
     limits: { requestsPerMinute: 60, requestsPerDay: 1000, tokensPerMinute: 10000, tokensPerDay: 300_000 },
     temperature: 1.0,
-    maxTokens: 400,
+    maxTokens: 1000,
   },
   {
     id: "llama-3.3-70b-versatile",
@@ -45,7 +45,7 @@ export const MODELS: ModelConfig[] = [
     priority: 4,
     limits: { requestsPerMinute: 30, requestsPerDay: 1000, tokensPerMinute: 12000, tokensPerDay: 100_000 },
     temperature: 1.0,
-    maxTokens: 400,
+    maxTokens: 1000,
   },
   {
     id: "llama-3.1-8b-instant",
@@ -53,6 +53,6 @@ export const MODELS: ModelConfig[] = [
     priority: 5,
     limits: { requestsPerMinute: 30, requestsPerDay: 14400, tokensPerMinute: 6000, tokensPerDay: 500_000 },
     temperature: 1.1,
-    maxTokens: 400,
+    maxTokens: 1000,
   },
 ];

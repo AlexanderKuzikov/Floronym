@@ -1,1 +1,22 @@
-{"name":"floronym","version":"0.1.0","type":"module","scripts":{"generate":"tsx src/index.ts","stats":"tsx src/index.ts --stats"},"dependencies":{"dotenv":"^17.3.1","groq-sdk":"^0.37.0","pino":"^10.3.1","zod":"^4.3.6"},"devDependencies":{"@types/node":"^25.3.3","@types/pino":"^7.0.4","tsx":"^4.21.0","typescript":"^5.9.3"}}
+{
+  "name": "floronym",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "generate": "chcp 65001 && tsx src/index.ts",
+    "stats": "chcp 65001 && tsx src/index.ts --stats"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "groq-sdk": "^0.37.0",
+    "pino": "^10.3.1",
+    "pino-pretty": "^13.1.3",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "@types/pino": "^7.0.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
