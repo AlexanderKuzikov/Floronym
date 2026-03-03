@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "total": 56
+  },
+  "removed_bad": [
+    {
+      "name": "Туманный шёпот белых пляшек",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Распустившаяся мгла",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Берёзовый мерцание дневное",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Зарево тихих болот",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Светлячки над рожью",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Северный шёпот мха",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:38:18.607Z"
+    },
+    {
+      "name": "Ветер колышущегося болота",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:53:06.187Z"
+    },
+    {
+      "name": "Красная мгла закатного леса",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:53:08.652Z"
+    },
+    {
+      "name": "Оранжевый ужас пустынной грозы",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:53:08.652Z"
+    },
+    {
+      "name": "Огнистый шёпот буреломов",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:53:12.988Z"
+    },
+    {
+      "name": "Ледяная ария утренней чащи",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:56:39.317Z"
+    },
+    {
+      "name": "Пурпурные зори хвойной мглы",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:56:50.398Z"
+    },
+    {
+      "name": "Золотой ручей под тростником",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:56:50.398Z"
+    },
+    {
+      "name": "Росная мгла",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:57:20.216Z"
+    },
+    {
+      "name": "Громыханье тучи тьмы",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:57:25.581Z"
+    },
+    {
+      "name": "Жемчужное дыхание рассветной мглы",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:57:42.501Z"
+    },
+    {
+      "name": "Серо-алый зуд подступающей мглы",
+      "theme": "цвет",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:57:45.327Z"
+    },
+    {
+      "name": "Бледные мглы утренней стужи",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:57:47.929Z"
+    },
+    {
+      "name": "Пустынный перезвон ветра",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:57:55.257Z"
+    },
+    {
+      "name": "Сияющая тьма будущего",
+      "theme": "эмоции",
+      "model": "llama-3.3-70b-versatile",
+      "createdAt": "2026-03-01T14:57:58.182Z"
+    },
+    {
+      "name": "Песок пустынного ветра",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:25.532Z"
+    },
+    {
+      "name": "Молчание мхов под снегом",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:25.534Z"
+    },
+    {
+      "name": "Радегунды розовая мгла",
+      "theme": "имена",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:31.556Z"
+    },
+    {
+      "name": "Мрак зимней печали",
+      "theme": "эмоции",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:34.205Z"
+    },
+    {
+      "name": "Мрак тихого отчаянья",
+      "theme": "эмоции",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:34.205Z"
+    },
+    {
+      "name": "Мрак тихой свободы",
+      "theme": "эмоции",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:34.205Z"
+    },
+    {
+      "name": "Мрак сумрачного нарцисса",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:58:40.918Z"
+    },
+    {
+      "name": "Словесный взор бога мглы",
+      "theme": "мифология",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:58:52.912Z"
+    },
+    {
+      "name": "Зыбкий след внушенной мглы",
+      "theme": "эмоции",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:58:57.162Z"
+    },
+    {
+      "name": "Салатовое дуновенье мглы",
+      "theme": "цвет",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:59:00.559Z"
+    },
+    {
+      "name": "Северное мороженое дыхание",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T14:59:29.059Z"
+    },
+    {
+      "name": "Колесница пустынных дорог",
+      "theme": "путешествия",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:59:51.364Z"
+    },
+    {
+      "name": "Медленное танго тростниковых зарей",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:59:53.870Z"
+    },
+    {
+      "name": "Тайна богини тьмы",
+      "theme": "мифология",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T14:59:58.845Z"
+    },
+    {
+      "name": "Кладбище перекрёстков",
+      "theme": "путешествия",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:00:03.916Z"
+    },
+    {
+      "name": "Иорданские Пустынные Звёзды",
+      "theme": "путешествия",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:00:49.542Z"
+    },
+    {
+      "name": "Дышит дальняя мгла",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:00:52.796Z"
+    },
+    {
+      "name": "Песнь Кладбища Сонетов",
+      "theme": "мифология",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:00:55.234Z"
+    },
+    {
+      "name": "Грация утренней тьмы",
+      "theme": "цвет",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:01:00.047Z"
+    },
+    {
+      "name": "Мгла ворвавшейся зари",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:01:07.678Z"
+    },
+    {
+      "name": "Смерть Танатос белая",
+      "theme": "мифология",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:01:10.738Z"
+    },
+    {
+      "name": "Мрак Каппадокии лунный",
+      "theme": "путешествия",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:01:13.661Z"
+    },
+    {
+      "name": "Фиалковое дыхание тьмы",
+      "theme": "цвет",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:01:16.620Z"
+    },
+    {
+      "name": "Песок пустынных часов",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:01:51.170Z"
+    },
+    {
+      "name": "Картина тьмы",
+      "theme": "цвет",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:02:10.080Z"
+    },
+    {
+      "name": "Белое свечение мглы",
+      "theme": "цвет",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:02:10.080Z"
+    },
+    {
+      "name": "Голографическая бабочка тьмы",
+      "theme": "цвет",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:02:10.080Z"
+    },
+    {
+      "name": "Лик Коры среди мха",
+      "theme": "имена",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:02:18.788Z"
+    },
+    {
+      "name": "Лиловый клёкот буреломного ветра",
+      "theme": "природа",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:04:28.426Z"
+    },
+    {
+      "name": "Тростник вакханского тумана",
+      "theme": "мифология",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:04:38.673Z"
+    },
+    {
+      "name": "Сонатина мглы",
+      "theme": "музыка",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:05:11.234Z"
+    },
+    {
+      "name": "Сливовый нектар мглы",
+      "theme": "цвет",
+      "model": "moonshotai/kimi-k2-instruct",
+      "createdAt": "2026-03-01T15:05:14.634Z"
+    },
+    {
+      "name": "Баюки пустынный без начала",
+      "theme": "путешествия",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:05:26.845Z"
+    },
+    {
+      "name": "Пустынное Воспоминание Земли",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:05:29.181Z"
+    },
+    {
+      "name": "Пыль Зернистой Мглы",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:05:29.181Z"
+    },
+    {
+      "name": "Касание Седой Мглы",
+      "theme": "природа",
+      "model": "qwen/qwen3-32b",
+      "createdAt": "2026-03-01T15:05:29.181Z"
+    }
+  ],
+  "removed_duplicates": 0
+}
